@@ -8,6 +8,8 @@ This project is a full-stack e-commerce webpage built as part of an internship a
 
 - **Live Preview (Frontend)**: [Deployed on Netlify](https://eclypss.netlify.app/)
 - **For backend, a sample is created but can't deploy it , so you need to run locally for backend.
+- command:   cd backend
+             node server.js 
 
 ---
 
